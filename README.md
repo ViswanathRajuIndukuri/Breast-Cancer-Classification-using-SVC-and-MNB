@@ -1,1 +1,1 @@
-# Breast-Cancer-Classification-using-SVC-and-MNB
+# Breast Cancer Classification using Support Vector Classifier and Multinomial Naive Bayes
